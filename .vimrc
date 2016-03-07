@@ -138,7 +138,7 @@ set nocompatible
 
     " it's nice to be able to select buffers and resize splits with a mouse at
     " times
-    set mouse=a
+    "set mouse=a
 " }
 
 
