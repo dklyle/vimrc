@@ -28,6 +28,7 @@ set nocompatible
     Plugin 'yssource/python.vim'
     Plugin 'gorodinskiy/vim-coloresque'
     Plugin 'nathanaelkane/vim-indent-guides'     " highlights indent levels
+    Plugin 'fatih/vim-go'
 
     Plugin 'flazz/vim-colorschemes'
 
