@@ -176,3 +176,6 @@ set nocompatible
     let NERDTreeShowHidden=1                        " show hidden files on startup
 " }
 
+" vim-json {
+    let g:vim_json_syntax_conceal = 0
+" }
