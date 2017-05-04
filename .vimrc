@@ -177,5 +177,7 @@ set nocompatible
 " }
 
 " vim-json {
+    " this keeps vim-json from adding hiding and adding quote characters on
+    " lines as you edit
     let g:vim_json_syntax_conceal = 0
 " }
