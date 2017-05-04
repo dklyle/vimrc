@@ -1,9 +1,10 @@
 ## .vimrc file
 This started from my use of [spf13-vim] and borrows sections from there.
 However, it is heavily pared back and butchered from there to suit my needs.
-Most notably all support autocomplete via neocomplete as I never was able to
-get that performant on large python files. The main goal is to keep the editor
-out of the way as much as possible and thus lightweight.
+Most notably all support for autocomplete via neocomplete was removed as I
+never was able to get that performant on large python files. The main goal is
+to keep the editor out of the way as much as possible and thus lightweight.
+
 
 ## Quick Start
 
