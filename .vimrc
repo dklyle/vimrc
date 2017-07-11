@@ -29,6 +29,7 @@ set nocompatible
     Plugin 'gorodinskiy/vim-coloresque'
     Plugin 'nathanaelkane/vim-indent-guides'     " highlights indent levels
     Plugin 'fatih/vim-go'
+    Plugin 'posva/vim-vue'
 
     Plugin 'flazz/vim-colorschemes'
 
@@ -52,6 +53,7 @@ set nocompatible
     autocmd FileType html setlocal tabstop=2 softtabstop=2 shiftwidth=2
     autocmd FileType css setlocal tabstop=2 softtabstop=2 shiftwidth=2
     autocmd FileType scss setlocal tabstop=2 softtabstop=2 shiftwidth=2
+    autocmd FileType vue setlocal tabstop=2 softtabstop=2 shiftwidth=2
 " }
 
 " Mappings {
