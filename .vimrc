@@ -32,6 +32,7 @@ set nocompatible
     Plugin 'posva/vim-vue'
 
     Plugin 'flazz/vim-colorschemes'
+    Plugin 'luochen1990/rainbow'                 " rainbow matching parenthesis
 
     call vundle#end()
 " }
@@ -182,4 +183,8 @@ set nocompatible
     " this keeps vim-json from adding hiding and adding quote characters on
     " lines as you edit
     let g:vim_json_syntax_conceal = 0
+" }
+
+" rainbow parenthesis enabling {
+    let g:rainbow_active = 1
 " }
