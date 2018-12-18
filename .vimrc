@@ -30,6 +30,7 @@ set nocompatible
     Plugin 'nathanaelkane/vim-indent-guides'     " highlights indent levels
     Plugin 'fatih/vim-go'
     Plugin 'posva/vim-vue'
+    Plugin 'rust-lang/rust.vim'
 
     Plugin 'flazz/vim-colorschemes'
     Plugin 'luochen1990/rainbow'                 " rainbow matching parenthesis
