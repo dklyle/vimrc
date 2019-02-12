@@ -56,6 +56,7 @@ set nocompatible
     autocmd FileType css setlocal tabstop=2 softtabstop=2 shiftwidth=2
     autocmd FileType scss setlocal tabstop=2 softtabstop=2 shiftwidth=2
     autocmd FileType vue setlocal tabstop=2 softtabstop=2 shiftwidth=2
+    autocmd FileType yaml setlocal tabstop=2 softtabstop=2 shiftwidth=2
 " }
 
 " Mappings {
