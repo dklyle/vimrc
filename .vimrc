@@ -34,6 +34,7 @@ set nocompatible
 
     Plugin 'flazz/vim-colorschemes'
     Plugin 'luochen1990/rainbow'                 " rainbow matching parenthesis
+    Plugin 'pedrohdz/vim-yaml-folds'
 
     call vundle#end()
 " }
