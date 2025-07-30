@@ -35,6 +35,7 @@ set nocompatible
     Plugin 'flazz/vim-colorschemes'
     Plugin 'luochen1990/rainbow'                 " rainbow matching parenthesis
     Plugin 'pedrohdz/vim-yaml-folds'
+    Plugin 'gergap/vim-ollama'
 
     call vundle#end()
 " }
@@ -142,7 +143,11 @@ set nocompatible
 
     set t_Co=256                        " enable 256 color support
     colorscheme railscasts
+    " set the background a little darker
+    " https://vim.fandom.com/wiki/Xterm256_color_names_for_console_Vim
+    hi Normal                    guifg=#e4e4e4 guibg=#080808 ctermfg=254 ctermbg=232
 
+    set nofoldenable    " disable folding
     " it's nice to be able to select buffers and resize splits with a mouse at
     " times
     "set mouse=a
