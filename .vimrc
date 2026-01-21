@@ -35,7 +35,9 @@ set nocompatible
     Plugin 'flazz/vim-colorschemes'
     Plugin 'luochen1990/rainbow'                 " rainbow matching parenthesis
     Plugin 'pedrohdz/vim-yaml-folds'
-    Plugin 'gergap/vim-ollama'
+    " Plugin 'gergap/vim-ollama'
+    Plugin 'DanBradbury/copilot-chat.vim'
+
 
     call vundle#end()
 " }
